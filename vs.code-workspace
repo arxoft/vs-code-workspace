@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.DS_Store": true,
+      "**/node_modules": true, 
+      "node_modules": true 
+    },
+    "terminal.integrated.fontSize": 14,
+    "editor.tabSize": 2
+  },
+  "extensions": {
+    "recommendations": [
+      "eamodio.gitlens",
+      "ms-vscode.sublime-keybindings",
+      "monokai.theme-monokai-pro-vscode",
+      "alefragnani.bookmarks",
+      "mombosolutions.somosemi"
+    ]
+  }
+}
